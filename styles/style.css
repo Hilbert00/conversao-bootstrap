@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat";
+}
+
+#page-1 {
+    background: url("../images/bg1.png") no-repeat center center;
+    background-size: auto 101.1%;
+}
+
+#page-3 {
+    background: url("../images/bg2.png") no-repeat -28vw center;
+    background-size: cover;
+}
+
+#page-4 {
+    background: url("../images/bg3.png") no-repeat center center;
+    background-size: auto 101.1%;
+}
+
+#page-5 {
+    background: url("../images/bg4.png") no-repeat center center;
+    background-size: auto 101.1%;
+}
+
+#page-6 {
+    background: url("../images/bg5.png") no-repeat center center;
+    background-size: auto 101.1%;
+}
+
+#page-7 {
+    background: url("../images/bg6.png") no-repeat center center;
+    background-size: auto 101.1%;
+}
